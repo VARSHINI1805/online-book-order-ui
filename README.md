@@ -32,3 +32,7 @@ A modern mobile app UI for book ordering, designed in Figma. This project showca
 [🎨 Figma Link – Online Book Order UI](https://www.figma.com/design/xDBMbS22LthxC8ecD8Pauo/online-book-order?node-id=0-1&t=O7BlQfBxaXYtpNom-1)
 
 ---
+## 🙋‍♀️ About the Designer
+
+> Designed with ❤️ by **VARSHINI S**
+
